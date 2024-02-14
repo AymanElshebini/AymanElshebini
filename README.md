@@ -1,6 +1,6 @@
 ### 👋  Hi, I’m Ayman El-Sherbini 
 ### 🌱 I’m Full Stack Developer 🌱
-## 💻 <h1>Technical Skills</h1>:
+## 💻 Technical Skills:
  * Back-End Developer PHP laravel
  * Frontend developer: HTML, CSS, Bootstrap5,JavaScript, Vue.js, nuxtjs 
  * Database Management:(MySQL,PostgreSQL)
