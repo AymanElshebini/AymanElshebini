@@ -1,5 +1,5 @@
 ### 👋  Hi, I’m Ayman El-Sherbini 
-### 🌱 I’m Full-Stack Web Developer|Backend Developer|PHP LARAVEL||Vue.js|Python Developer | Django Backend Developer 🌱
+### 🌱 I’m Full-Stack Web Developer|Backend Developer|Python Developer|Django Backend Developer 🌱
 ## 💻 Professional Skillsl :
  * Languages & Frameworks:: Laravel-php , Python Django,JavaScript,vuejs
  * API Development: RESTful API 
