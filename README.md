@@ -8,6 +8,7 @@
  * Data Structures and Algorithms
  * Problem Solving
  * Version Control:Git and GitHub
+ 📫 How to reach me:aymanalex00@hotmail.com
    
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.sologreen.net)  
