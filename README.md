@@ -1,11 +1,7 @@
 ### 👋  Hi, I’m Ayman El-Sherbini 
-### 🌱 I’m Full-Stack Web Developer|Backend Developer|Python Developer|Django Backend Developer 🌱
-## 💻 Professional Skillsl :
- * Languages & Frameworks:: Laravel-php , Python Django,JavaScript,vuejs
- * API Development: RESTful API 
- * Frontend Development: HTML, CSS, Bootstrap
- * Database :(MySQL,PostgreSQL)
- * Data Structures and Algorithms
+### 🌱 I’m  Full Stack Web Developer | Back-End Developer- Python/Django | Python Developer 🌱
+## 💻 My stack :
+ * Docker, Django, DjangoRestFramework, PostgreSQL/MySQL, HTML, CSS, Bootstrap, Vue.js, React.js 
  * Problem Solving
  * Version Control:Git and GitHub
  ## 📫 How to reach me : aymanalex00@hotmail.com
